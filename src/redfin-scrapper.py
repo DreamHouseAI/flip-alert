@@ -1,4 +1,6 @@
 '''Install the redfin unofficial wrapper package using "python3 -m pip install redfin" in your terminal'''
+'''It looks like it is blocked by Redfin not working anymore'''
+
 from redfin import Redfin
 client = Redfin()
 
