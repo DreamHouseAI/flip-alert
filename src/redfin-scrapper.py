@@ -1,4 +1,4 @@
-'''Install the redfin package using "python3 -m pip install redfin" in your terminal'''
+'''Install the redfin unofficial wrapper package using "python3 -m pip install redfin" in your terminal'''
 from redfin import Redfin
 client = Redfin()
 
